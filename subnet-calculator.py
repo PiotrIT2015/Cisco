@@ -1,7 +1,7 @@
 import re
 import random
 
-IP_ADDRESS_RE = re.compile(r"^(\d{1,3}\.){3}\d{1,3}$")
+IP_ADDRESS_RE = re.compile(r"^(?=.*[^\.]$)((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.?){4}$")
 MASK_BINARY_RE = re.compile(r"^1*0*$")
 IP_ADDRESS = "192.168.10.5"
 MASK = "255.255.255.0"
