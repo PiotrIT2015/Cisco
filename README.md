@@ -15,6 +15,9 @@ crashed client machines in labolatory environments to test for faulty errors.
 # postfix
 In this file I showed how to configure a mail server.
 
+# proxy
+In this file I showed how to configure Windows and Ubuntu LTS. I need it to set up 'OS-WW-P'['SecureOS'].
+
 # vlan
 In this file I showed how to configure a virtual network which contain VM and other network device with Cisco Packet Tracer.
 	
