@@ -20,6 +20,9 @@ In this file I showed how to configure Windows and Ubuntu LTS. I need it to set 
 
 # vlan
 In this file I showed how to configure a virtual network which contain VM and other network device with Cisco Packet Tracer.
+
+# pfx
+In this file I showed how to set up a certificate on the server to connect via VPN.
 	
 ## Technologies
 Project is created with:
