@@ -23,6 +23,9 @@ In this file I showed how to configure a virtual network which contain VM and ot
 
 # pfx
 In this file I showed how to set up a certificate on the server to connect via VPN.
+
+# network
+In this file I showed how to set up a network connections in simple network using commands from CCNA.
 	
 ## Technologies
 Project is created with:
